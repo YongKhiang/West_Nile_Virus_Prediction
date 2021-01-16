@@ -145,7 +145,7 @@ Another thing to note is the incubation period of the virus which is approximate
 3) Concentrate spraying efforts to vulnerable locations as identified in the map below:
 Based on our production model, it is predicted that these locations are susceptible to the spread of the WNV. 
 
-<img src="\assets\image2008.jpg">
-<img src="\assets\image2010.jpg">
-<img src="\assets\image2012.jpg">
-<img src="\assets\image2014.jpg">
+<img src="/assets/image2008.jpg">
+<img src="/assets/image2010.jpg">
+<img src="/assets/image2012.jpg">
+<img src="/assets/image2014.jpg">
